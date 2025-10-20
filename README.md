@@ -1,8 +1,10 @@
 # Codewars JS Katas 🧩
 
+
+![Codewars Badge](https://www.codewars.com/users/SofiaKubo/badges/small)
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)](https://www.javascript.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-14.x-green?logo=node.js)](https://nodejs.org/)
-[![GitHub stars](https://img.shields.io/github/stars/SofiaKubo/kata-training?style=social)](https://github.com/SofiaKubo/kata-training/stargazers)
+
 
 This repository contains my solutions to JavaScript challenges from [Codewars](https://www.codewars.com/users/SofiaKubo).
 
