@@ -21,4 +21,9 @@ function minMax(arr) {
   return [minElement, maxElement];
 }
 
+// Alternative solution using spread with Math.min/Math.max
+function minMax(arr) {
+  return [Math.min(...arr), Math.max(...arr)];
+}
+
 module.exports = minMax;
