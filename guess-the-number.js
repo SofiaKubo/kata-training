@@ -1,7 +1,7 @@
 const prompt = require("prompt-sync")();
 
 function guessNumber() {
-  const secretNumber = Math.floor(Math.random() * 5) + 1;
+  const secretNumber = Math.trunc(Math.random() * 5) + 1;
   const userAnswer = +prompt("Введите число:");
 
   if (!Number.isInteger(userAnswer) || userAnswer < 1 || userAnswer > 5) {
